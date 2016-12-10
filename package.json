@@ -1,0 +1,23 @@
+{
+  "name": "tape-for-immutable",
+  "version": "1.0.0",
+  "description": "This module is for those who want to use [tape](https://github.com/substack/tape) and [immutable.js](https://facebook.github.io/immutable-js/) together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sainthkh/tape-for-immutable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sainthkh/tape-for-immutable/issues"
+  },
+  "homepage": "https://github.com/sainthkh/tape-for-immutable#readme",
+  "dependencies": {
+    "tape": "^4.6.3"
+  }
+}
