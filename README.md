@@ -5,6 +5,9 @@ This module is for those who want to use [tape](https://github.com/substack/tape
 ## Example
 
 ```js
+// You don't need any configuration.
+// Just require it.
+require('test-for-immutable')  
 
 test("state is correct", t => {
 	var state = Map({

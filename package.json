@@ -1,6 +1,6 @@
 {
   "name": "tape-for-immutable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module is for those who want to use [tape](https://github.com/substack/tape) and [immutable.js](https://facebook.github.io/immutable-js/) together.",
   "main": "index.js",
   "scripts": {
